@@ -1,9 +1,10 @@
-<Project Sdk="Microsoft.NET.Sdk.Web">
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
 
   <PropertyGroup>
     <TargetFramework>net8.0</TargetFramework>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
+    <UserSecretsId>ed0e0653-386b-4397-b9c8-842e6ec33058</UserSecretsId>
   </PropertyGroup>
 
   <ItemGroup>
@@ -11,7 +12,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Product.Common\Product.Common.csproj" />
+    <ProjectReference Include="..\Product.Common\Product.Models.csproj" />
     <ProjectReference Include="..\ProductService\Product.Service.csproj" />
   </ItemGroup>
 
