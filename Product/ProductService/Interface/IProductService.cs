@@ -1,6 +1,5 @@
 ﻿using Product.Common;
 using Product.Models.ViewModels;
-using Product.Service.Dtos.Dto;
 
 namespace Product.Service.Interface
 {

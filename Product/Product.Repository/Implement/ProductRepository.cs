@@ -1,10 +1,9 @@
 ﻿using Dapper;
 using Product.Common;
-using Product.Service.Dtos.Dto;
 using Product.Repository.Interface;
-using System.Data;
 using Microsoft.Extensions.Configuration;
 using Product.Models.Entity;
+using Product.Models.ViewModels;
 
 namespace Product.Repository.Implement
 {

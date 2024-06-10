@@ -1,5 +1,5 @@
 ﻿using Product.Models.Entity;
-using Product.Service.Dtos.Dto;
+using Product.Models.ViewModels;
 
 namespace Product.Repository.Interface
 {

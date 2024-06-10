@@ -1,6 +1,6 @@
 ﻿
 
-namespace Product.Service.Dtos.Dto
+namespace Product.Models.ViewModels
 {
     public class ProductSearchCondition
     {

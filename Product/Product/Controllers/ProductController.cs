@@ -1,8 +1,6 @@
-using AutoMapper;
 using Microsoft.AspNetCore.Mvc;
 using Product.Common;
 using Product.Models.ViewModels;
-using Product.Service.Dtos.Dto;
 using Product.Service.Interface;
 
 namespace Product.Controllers
