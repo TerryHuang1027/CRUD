@@ -11,7 +11,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Product.Common\Product.Common.csproj" />
+    <ProjectReference Include="..\Product.Common\Product.Models.csproj" />
     <ProjectReference Include="..\Product.Repository\Product.Repository.csproj" />
   </ItemGroup>
 
